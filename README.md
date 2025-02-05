@@ -37,8 +37,13 @@
 
 ---
 
+
 ### ⏳ WakaTime Stats:
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Y@d362e131-89b3-42c3-b6bb-d37ff5d3c9cf&theme=dark)](https://wakatime.com/@d362e131-89b3-42c3-b6bb-d37ff5d3c9cf)
+<p align="left">
+  <a href="https://wakatime.com/@d362e131-89b3-42c3-b6bb-d37ff5d3c9cf">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=d362e131-89b3-42c3-b6bb-d37ff5d3c9cf&theme=dark&layout=compact" alt="WakaTime Stats" />
+  </a>
+</p>
 
 
 ---
