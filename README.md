@@ -6,7 +6,7 @@ Hi there! I am **Mehriddin Nuriddinov**, a passionate full-stack developer speci
 
 ## 📈 **GitHub and Coding Activity**
 
-![Wakatime Stats](https://wakatime.com/badge/user/your-wakatime-id.svg)
+![Wakatime Stats]([https://wakatime.com/badge/user/your-wakatime-id.svg](https://wakatime.com/dashboard))
 
 ---
 
