@@ -1,4 +1,4 @@
-# 🔧 **MexriddinDev | Full-Stack Developer**
+[# 🔧 **MexriddinDev | Full-Stack Developer**
 
 Hi there! I am **Mehriddin Nuriddinov**, a passionate full-stack developer specializing in **PHP**, **JavaScript**, and web development. Currently pursuing a degree in **Cybersecurity at TATU**, I am committed to building secure, scalable, and user-centric digital solutions.
 
@@ -94,3 +94,4 @@ Hi there! I am **Mehriddin Nuriddinov**, a passionate full-stack developer speci
 This README reflects my dedication to crafting robust and innovative software solutions. Feel free to connect, collaborate, or explore my projects!
 
 
+](https://github.com/MexriddinDev)
