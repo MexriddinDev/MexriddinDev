@@ -1,97 +1,40 @@
-[# 🔧 **MexriddinDev | Full-Stack Developer**
+## 🌟 Hi there, I'm Mexriddin!
 
-Hi there! I am **Mehriddin Nuriddinov**, a passionate full-stack developer specializing in **PHP**, **JavaScript**, and web development. Currently pursuing a degree in **Cybersecurity at TATU**, I am committed to building secure, scalable, and user-centric digital solutions.
-
----
-
-## 📈 **GitHub and Coding Activity**
-
-![Wakatime Stats]([https://wakatime.com/badge/user/your-wakatime-id.svg](https://wakatime.com/dashboard))
+### 🌟 About Me:
+- 🌟 I'm a passionate developer exploring the world of programming.
+- 🌟 Currently learning **PHP, Laravel**, and improving my **JavaScript** skills.
+- 🌟 I love creating web applications and solving real-world problems.
+- 🌟 My goal is to contribute to open-source and build projects that help others.
 
 ---
 
-## 🔮 **Key Projects**
+### 📊 GitHub Stats:
+![Mexriddin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MexriddinDev&show_icons=true&theme=dark)
 
-### ✨ **Currency Converter**
-
-- A robust PHP-based currency converter utilizing a Central Bank API for real-time exchange rates.
-- Features weather information integration and Telegram bot connection.
-
-### 📋 **Todo App**
-
-- A dynamic task management app with a sleek interface to organize daily activities efficiently.
-- Built with PHP and optimized for smooth user interaction.
-
-### 🎭 **Quiz App**
-
-- An interactive quiz platform using PHP and MySQL for efficient data storage and secure user authentication.
-- Real-time result tracking and analysis.
-
-### 💼 **Work of Tracker**
-
-- A comprehensive project tracker built with PHP to manage work progress and deadlines.
-- Focused on enhancing productivity and collaboration.
-
-### 🛒 **Market Automation System**
-
-- A dynamic market automation tool featuring a seamless cart calculation system.
-- Developed for efficient user experience and backend optimization.
-
-### 🔧 **Telegram Bots**
-
-- Developed automated Telegram bots for real-time notifications and streamlined communication.
-- Integrated with APIs for real-world solutions.
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MexriddinDev&layout=compact&theme=dark)
 
 ---
 
-## 🔧 **Skills and Tools**
-
-- **Languages:** PHP, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** Laravel, Bootstrap
-- **Databases:** MySQL
-- **Version Control:** Git, GitHub
-- **APIs:** OpenWeather API, Telegram Bot API
-- **Productivity Tools:** Wakatime for time tracking and code analytics
+### ⏳ WakaTime Stats:
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=dark)
 
 ---
 
-## 🔗 **Connect with Me**
-
-- 🔖 [GitHub](https://github.com/MexriddinDev)
-- 👤 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🔹 [Instagram](https://instagram.com/your-profile)
-- 💌 [Telegram](https://t.me/your-profile)
-
----
-
-## 🌟 **Other Interests**
-
-- Cybersecurity research and development
-- Building automation tools and Telegram bots
-- Contributing to open-source projects
+### 🌟 Featured Projects:
+Here are some of my favorite projects:
+1. [WorkOfTracker](https://github.com/MexriddinDev/WorkOfTracker): A personal productivity tracker to manage daily tasks.
+2. [TodoApp](https://github.com/MexriddinDev/TodoApp): A simple and effective to-do list app built with PHP.
+3. [Currency Converter](https://github.com/MexriddinDev/CurrencyConverter): An app to convert currencies and get weather information in real-time.
 
 ---
 
-## 📚 **Academic Background**
-
-- **Institution:** TATU (Tashkent University of Information Technologies)
-- **Course:** Cybersecurity, Second Year
-
----
-
-## 📅 **Future Goals**
-
-- Expand expertise in **backend technologies and cybersecurity**
-- Build highly scalable and secure **full-stack applications**
-- Contribute to open-source projects and mentor budding developers
+### 💪 Skills & Tools:
+- **Languages**: PHP, JavaScript, HTML, CSS
+- **Frameworks**: Laravel, Bootstrap
+- **Tools**: Git, GitHub, Visual Studio Code, Composer
 
 ---
 
-## 🌐 **Wakatime Activity Insights**
-
-![Coding Activity](https://wakatime.com/share/your-activity-graph.svg)
-
-This README reflects my dedication to crafting robust and innovative software solutions. Feel free to connect, collaborate, or explore my projects!
-
-
-](https://github.com/MexriddinDev)
+### 📞 How to Reach Me:
+- **GitHub**: [@MexriddinDev](https://github.com/MexriddinDev)
+- **Email**: your.email@example.com
