@@ -55,7 +55,7 @@ Here are some of my favorite projects:
 3. [Currency Converter](https://github.com/MexriddinDev/CurrencyConverter): An app to convert currencies and get weather information in real-time.
 
 **More Projects:**
-- [Quiz-App]([https://github.com/MexriddinDev/Project1](http://mexridub.beget.tech/))
+- [Quiz-App](http://mexridub.beget.tech/)
 - [Project 2](https://github.com/MexriddinDev/Project2)
 - [Project 3](https://github.com/MexriddinDev/Project3)
 
