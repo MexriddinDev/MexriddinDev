@@ -10,7 +10,7 @@
 - 🌟 My goal is to contribute to open-source and build projects that help others.
 
 
-## 📊 GitHub Statistikasi
+### 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MexriddinDev&show_icons=true&theme=radical)
 
