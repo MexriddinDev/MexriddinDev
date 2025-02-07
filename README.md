@@ -10,21 +10,11 @@
 - 🌟 My goal is to contribute to open-source and build projects that help others.
 
 
-### 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MexriddinDev&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=MexriddinDev&theme=radical)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MexriddinDev&layout=compact&theme=radical)
-
-
-
 
 ---
 
 ### 📊 GitHub Stats:
-![Mexriddin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MexriddinDev&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MexriddinDev&show_icons=true&theme=radical)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MexriddinDev&layout=compact&theme=dark)
 
