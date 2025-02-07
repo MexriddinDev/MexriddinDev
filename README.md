@@ -15,7 +15,9 @@
 
 
 ## 🐍 Contribution Graph Snake Animation
-![snake gif](https://github.com/MexriddinDev/MexriddinDev/blob/output/snake.svg)
+  
+![snake gif](https://raw.githubusercontent.com/MexriddinDev/MexriddinDev/output/snake.svg)
+
 
 
 ### 📊 GitHub Stats:
