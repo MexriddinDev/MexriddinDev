@@ -13,6 +13,11 @@
 
 ---
 
+
+## 🐍 Contribution Graph Snake Animation
+![snake gif](https://github.com/MexriddinDev/MexriddinDev/blob/output/snake.svg)
+
+
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MexriddinDev&show_icons=true&theme=radical)
 
