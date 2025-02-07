@@ -14,9 +14,6 @@
 ---
 
 
-## 🐍 Contribution Graph Snake Animation
-  
-![snake gif](https://raw.githubusercontent.com/MexriddinDev/MexriddinDev/output/snake.svg)
 
 
 
