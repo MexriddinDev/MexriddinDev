@@ -22,6 +22,12 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MexriddinDev&layout=compact&theme=dark)
 
+
+### ⏳ WakaTime Statistikalari   
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mexriddin&layout=compact&theme=radical&hide_title=true&border_radius=10px&range=all_time)](https://wakatime.com/@Mexriddin)
+
+
+
 ---
 
 ### 🛠 Technologies & Tools:
@@ -53,9 +59,6 @@
 
 ---
 
-
-### ⏳ WakaTime Statistikalari   
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mexriddin&layout=compact&theme=radical&hide_title=true&border_radius=10px&range=all_time)](https://wakatime.com/@Mexriddin)
 
 
 ---
