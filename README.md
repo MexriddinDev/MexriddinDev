@@ -55,7 +55,7 @@
 
 
 ### ⏳ WakaTime Stats:
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=d362e131-89b3-42c3-b6bb-d37ff5d3c9cf)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@d362e131-89b3-42c3-b6bb-d37ff5d3c9cf)
 
 
 
