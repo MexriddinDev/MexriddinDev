@@ -54,8 +54,9 @@
 ---
 
 
-### ⏳ WakaTime Stats:
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mexriddin&layout=compact)
+### ⏳ WakaTime Statistikalari   
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Mexriddin&layout=compact&theme=radical&hide_title=true&range=last_7_days&border_radius=10px)](https://wakatime.com/@Mexriddin)
+
 
 
 ---
